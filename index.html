@@ -1,0 +1,22 @@
+---
+layout: default
+title: From the Jammer Line
+sitemap:
+    priority: 0.9
+    changefreq: monthly
+---
+
+{% assign collection = site.posts | sort: "date" | reverse %}
+
+Feed: <a href="/feed.xml">RSS</a>
+<div class="list-group">
+  {% for post in collection %}
+  
+  <div class="list-group-item">
+    {% if post.title %} <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a> {% endif %}
+    {% if post.date %} {{ post.date | date: "%d %B %Y" }} {% endif %}
+    | <a href="http://blog.metatheorem.org{{ post.url }}#disqus_thread"></a>
+  </div>  
+  {% endfor %}
+  
+</div>
