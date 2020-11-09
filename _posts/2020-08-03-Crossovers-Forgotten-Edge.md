@@ -9,12 +9,12 @@ categories:
 ---
 
 Having just begun my derby journey I have watched an absurd number of
-howto videos.  In particular, videos explaining how to improve my
+how-to videos.  In particular, videos explaining how to improve my
 crossovers.  As I'm sure is common, I've been working on perfecting
 them since day one.  As I've got better, I started to analyze my
 crossovers, and really try to pinpoint what makes a good crossover,
 and I realized something that I haven't heard before, but once I
-realized it's importance, my crossovers significantly improved.
+realized its importance, my crossovers significantly improved.
 
 Let's assume we're rolling derby direction.  Then the most important
 part of a crossover is pulling your left foot -- I like to think of it
@@ -37,7 +37,7 @@ When we push our skate under us we need to activate our outer edge to
 allow our skate to smoothly push under and then out and up into the
 sickled form. Using this edge makes the movement more fluid, and it
 rectifies a super common complaint of new toestop users.  One thing I
-noticed when I was beginning to practice using my toe stops a lot more
+noticed when I was beginning to practice using my toestops a lot more
 was if I lowered them down, then they would hit the track when I did
 my crossovers.  However, once I started effectively using my outer
 edge during crossovers this problem went away!
@@ -46,22 +46,18 @@ So in this post I'm going to tell you about some drills I used to get
 better at using my outer edge to improve my crossovers, and getting to
 know my edges have also helped me in a lot more areas as well.
 
-So, where is this outer edge?  Take a look at this picture:
+So, where is this outer edge?  The outer edge is the edge of the skate
+where your pinky toe is.  So on the right foot, the outer edge is the
+right most edge, but on the left foot, the outer edge is the left most
+edge.  Here is a short video of me pressing on my outer edges:
 
-INSERT EDGE IMAGE
-
-The outer edge is the edge of the skate where your pinky toe is.  So
-on the right foot, the outer edge is the right most edge, but on the
-left foot, the outer edge is the left most edge.  Here is a short
-video of me pressing on my outer edges:
-
-INSERT EDGE VIDEO
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/QhG44dAj3EQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Now let's take a look at a crossover and see if we can see that edge
 use.  Take a look at this video of me doing crossovers -- I'm not a
 professional so don't be too hard on me:
 
-INSERT CROSSOVER VIDEO
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Y9OzRLuS2aI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 So as we can see from the video I always push into the outer edge and
 then out.  This makes the full motion very fluid.
@@ -80,21 +76,21 @@ Now on to the drills!
      way to get used to the motion and learn the feeling of using the
      outer edge.  Here is a video of me doing some:
 
-     INSERT GRAPEVINE VIDEO
+     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/BbRUYeyzqHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
   3. Combing the grapevine with a little movement makes for a great
      crossover drill that's been really helping me.  You can combine
      it with a plowstop as well to get some extra practice with those
-     too.  I'm not sure to call these, but they have been helping me
+     too.  I'm not sure what to call these, but they have been helping me
      think about my form more and add control to the movement.  Check
      out this clip for the drill:
 
-     INSERT CROSSOVER DRILL VIDEO
+     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UpfAtEUKBcM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
   4. The last drill is a lot of fun!  It is a one-footed glide where
      you swerve about on each edge.  It is great for balance work,
      feeling the edges, and learning to move more gracefully and
      agile.  Check it out, and have fun:
 
-     INSERT EDGE DRILL
+     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/cMcv-qVOiA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
