@@ -22,5 +22,8 @@ feed.xml : ${draft_dir}/feed.xml
 serve :
 	http-server
 
+watch :
+	find $(md_dir) | entr -p -c 'make'
+
 clean :
 	rm -f ${post_dir}/* index.html
