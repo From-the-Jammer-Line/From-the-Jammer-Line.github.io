@@ -40,7 +40,7 @@ After getting my kit, I joined the Augusta Soul City Sirens'
 fresh-meat boot camp to learn how to play.
 
 <center>
-![](/images/posts/Derbyversary/fresh-meat-pic.png "Fresh-meat selife."){ width=30% }
+![](/images/posts/Derbyversary/fresh-meat-pic.png "Fresh-meat selfie."){ width=30% }
 ![](/images/posts/Derbyversary/fresh-meat-squad.png "Group pic of my fresh-meat class."){ width=60% }
 </center>
 
@@ -56,18 +56,19 @@ and play derby:
 <iframe width="300" height="200" src="https://www.youtube.com/embed/9Yp0LRcXaig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-As you can see I had and still have a lot of work to do, but I got to
-work!  I started eating right, I was already vegan, but I changed it
-up and started eating a whole plant-based diet.  Furthermore, I start
-working out off skates.  I'm happy to report that over the last year
+As you can see I had, and still have, a lot of work to do, but I got
+to work!  I started eating right, I was already vegan, but I changed
+it up and started eating a whole plant-based diet.  Furthermore, I
+started working out off skates.  I'm happy to report that over the last
+year
 I've lost 110 lbs and have gotten a lot stronger and a lot faster.  
 
 On top of that, to get stronger at skating I started skating three
 times a week for 1 to 2 hours.  Before the pandemic I went to practice
 with the Sirens three times a week, but during the pandemic I had to
-train alone, and I managed to keep it up and started learning a lot of
-new drills.  Checkout these videos of my progress six months into my
-training:
+train alone, and I managed to keep it up! I started learning a lot of
+new drills to get better at footwork.  Checkout these videos of my
+progress six months into my training:
 
 <center>
 <iframe width="300" height="200" src="https://www.youtube.com/embed/rIIxkVF-Mko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,15 +87,30 @@ to get new skates") ![](/images/posts/Derbyversary/first-antiks.png "My first pa
 My original skates were low end, because I wasn't sure if I would
 stick with it.  I put them through the ringer.  Check out these pics:
 
-Images of old skates
+<center>
+![](/images/posts/Derbyversary/old-skates.png "Old skates top view"){ width=30% } 
+![](/images/posts/Derbyversary/old-right-skate-2.png "Inner view of old right skate"){ width=30% } 
+![](/images/posts/Derbyversary/old-left-skate-1.png "Otter view of old left skate"){ width=30% } 
+![](/images/posts/Derbyversary/old-right-skate-1.png "Otter view of old right skate"){ width=49% } 
+![](/images/posts/Derbyversary/old-left-skate-2.png "Inner view of old left skate"){ width=49% } 
+</center>
 
 I mean, I put groves in the boots from working on my edges.  The
 plates also twist and bend a lot.
 
 After getting my new skates I've improved a lot; it's surprising how a
-good set of plates changes things.  I'm progressing, and roller derby
-has had a positive impact on my health, my mental health, and my
-social life.  One day I hope to be a decent jammer.  I'm now a new
-member of the 
-[North Carolina Wrecking Balls'](https://carolinawreckingballs.com/) 
-league.  I'm excited for my derby future.
+good set of plates changes things.  Here are some of my latest videos
+from my Instagram profile:
+
+<center>
+[ ![](/images/posts/Derbyversary/insta-1.png){ width=40% }  ](https://www.instagram.com/p/CJr3eklhMTr/?utm_source=ig_web_copy_link){ target="_blank" }
+[ ![](/images/posts/Derbyversary/insta-2.png){ width=50% }  ](https://www.instagram.com/p/CJXaVuVhflq/?utm_source=ig_web_copy_link){ target="_blank" }
+[ ![](/images/posts/Derbyversary/insta-3.png){ width=40% }  ](https://www.instagram.com/p/CHixfaHHBh6/?utm_source=ig_web_copy_link){ target="_blank" }
+[ ![](/images/posts/Derbyversary/insta-4.png){ width=50% }  ](https://www.instagram.com/p/CFGQtxfjSOO/?utm_source=ig_web_copy_link){ target="_blank" }
+</center>
+
+I'm progressing, and roller derby has had a positive impact on my
+health, my mental health, and my social life.  One day I hope to be a
+decent jammer.  I'm now a new member of the [North Carolina Wrecking
+Balls'](https://carolinawreckingballs.com/){ target="_blank" } league.
+I'm excited for my derby future.
