@@ -7,6 +7,9 @@ Feed: [RSS](feed.xml)
 
 ::: list-group
 ::: list-group-item
+### [Advice on Jumping](/draft/Jumps.html)
+:::
+::: list-group-item
 ### [One Year Derbyversary](/draft/Derbyversary.html)
 :::
 ::: list-group-item
