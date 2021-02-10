@@ -1,6 +1,6 @@
 ---
-title: "All the jumps!"
-date: 2020-12-30
+title: "Advice on jumping"
+date: 2021-02-10
 categories:
  - minimal skills
  - jumping
